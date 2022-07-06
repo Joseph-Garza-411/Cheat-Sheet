@@ -1,0 +1,94 @@
+* {
+      font-family: Helvetica, Arial, sans-serif;
+}
+
+.header-title {
+   font-size: 3em; 
+   font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"; 
+ }
+
+body {
+      background-color: rgba(255,252,252,1.00); 
+      width: 90%;
+      max-width: 900px;
+      margin: 1em auto;
+      font: .9em/1.2 Arial, Helvetica, sans-serif;
+}
+      
+ header
+  {
+      border-radius: 5px;
+      padding: 20px;
+      background-color: rgba(255,252,252,1.00);
+	  text-align: left;
+ } 
+ header {
+  font-weight: 20px;
+ }
+
+.anatomy p {
+	word-spacing: 1px;
+	letter-spacing: .8px;
+	line-height: 1.2em; 
+	text-align: justify; 
+}
+.webpage-anatomy {
+	border-collapse: collapse; 
+	margin: 20px auto; 
+	min-width: 300px; 
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-size: 0.9em; 
+	letter-spacing: 2px; 
+}
+
+.webpage-anatomy thead tr {
+	background-color: #009879; 
+	color: #F3F3F3; 
+	text-align: left; 
+	font-weight: bold; 
+}
+
+.webpage-anatomy thead th, 
+.webpage-anatomy tbody td {
+	padding: 12px 15px; 
+}
+
+.webpage-anatomy tbody tr {
+	border-bottom: 1px solid #dddddd; 
+}
+
+.webpage-anatomy tbody tr:nth-last-of-type(even) {
+	background-color: #F3F3F3;
+}
+
+.nested-1 {
+	text-align: center; 
+}
+
+.webpage-anatomy tbody tr:last-of-type {
+	border-bottom: 2px solid #009879;
+}
+
+.emphasis {
+	font-style: italic; 
+	font-weight: bolder; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
